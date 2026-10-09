@@ -8,7 +8,13 @@ const copy={
 };
 const el=id=>document.getElementById(id);
 let lang=(navigator.languages||[navigator.language]).map(x=>x.split('-')[0]).find(x=>copy[x])||'en';
-const token=new URL(location.href).searchParams.get('invite');
+const fragmentToken=new URLSearchParams(location.hash.slice(1)).get('invite');
+const legacyToken=new URL(location.href).searchParams.get('invite');
+const validToken=value=>/^[a-f0-9]{64}$/.test(value||'');
+const token=validToken(fragmentToken)?fragmentToken:legacyToken;
+// An old query-style link has already reached the host, but remove its token
+// from the visible URL and browser history immediately after opening it.
+if(location.search)history.replaceState(null,'',location.pathname+(validToken(token)?'#invite='+token:''));
 let group=null,state='loading';
 function render(){
  const t=copy[lang];document.documentElement.lang=lang;el('language').value=lang;
