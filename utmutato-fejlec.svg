@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" width="240" height="180" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Szokásépítési útmutató fejléce: csendélet – könyv a párnán, gitár az állványon; a környezet előkészítése. Vonal: #214F42, folt: #FE724B -->
+  <ellipse cx="92" cy="122" rx="74" ry="34" fill="#FE724B"/>
+  <path d="M16 158 H224" stroke="#214F42" stroke-width="3"/>
+  <path d="M34 128 Q30 108 52 106 H132 Q154 108 150 128 Q154 148 132 150 H52 Q30 148 34 128 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M60 106 Q66 128 60 150 M124 106 Q118 128 124 150" stroke="#214F42" stroke-width="2.4"/>
+  <rect x="64" y="94" width="58" height="14" rx="2" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M68 101 H118" stroke="#214F42" stroke-width="2"/>
+  <path d="M186 26 V82" stroke="#214F42" stroke-width="8"/>
+  <path d="M186 26 V82" stroke="#F4F3ED" stroke-width="2.4"/>
+  <rect x="179" y="16" width="14" height="14" rx="3" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M186 80 C170 80 167 93 174 101 C163 108 161 130 175 140 C181 144 191 144 197 140 C211 130 209 108 198 101 C205 93 202 80 186 80 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <circle cx="186" cy="114" r="6" stroke="#214F42" stroke-width="2.4"/>
+  <path d="M180 132 H192" stroke="#214F42" stroke-width="3"/>
+  <path d="M172 158 L186 142 L200 158" stroke="#214F42" stroke-width="3"/>
+</svg>
