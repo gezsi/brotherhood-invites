@@ -1,0 +1,1 @@
+main {max-width: 760px} nav {font-size: .9rem; line-height: 2} details {margin: 12px 0; border-bottom: 1px solid #dde4dd; padding: 12px 0} summary {cursor: pointer; line-height: 1.5} details p {line-height: 1.65} a {overflow-wrap: anywhere} details:target {background: #f1f5f1}
