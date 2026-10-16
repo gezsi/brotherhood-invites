@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" width="240" height="180" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ha kimaradt: kanyargó ösvény, amely a kanyar után a horizontig folytatódik. Vonal: #214F42, folt: #FE724B, alap: #E1F0E5 -->
+  <path d="M154 52 A26 26 0 0 1 206 52 Z" fill="#FE724B"/>
+  <path d="M74 182 C74 146 176 146 166 114 C158 88 92 98 102 72 C108 58 130 54 146 52" stroke="#E1F0E5" stroke-width="30"/>
+  <path d="M74 182 C74 146 176 146 166 114 C158 88 92 98 102 72 C108 58 130 54 146 52" stroke="#214F42" stroke-width="3" stroke-dasharray="3 10"/>
+  <path d="M18 52 H222" stroke="#214F42" stroke-width="3"/>
+  <path d="M30 52 Q48 36 66 52 M176 52 Q192 40 208 52" stroke="#214F42" stroke-width="2.4"/>
+  <path d="M34 120 Q40 112 46 120 M200 150 Q206 142 212 150 M196 92 Q201 85 206 92" stroke="#214F42" stroke-width="2.4"/>
+</svg>

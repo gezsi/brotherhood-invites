@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Futás -->
+  <path d="M1.8 9.2 H5.2 M1.2 12.6 H4.4 M2.6 16 H5.6" stroke="#FE724B" stroke-width="1.8" />
+  <circle cx="15.4" cy="3.6" r="2.2" fill="#214F42"/>
+  <path d="M14.6 6.3 L12 12" stroke="#214F42" stroke-width="2" />
+  <path d="M13.9 7.8 L10.6 9.4 L9.4 12.2 M14.1 7.8 L16.6 10 L19.4 8.8" stroke="#214F42" stroke-width="2" />
+  <path d="M12 12 L15.2 14.6 L14 19.6 M12 12 L9.4 15.2 L5.6 16.2" stroke="#214F42" stroke-width="2" />
+</svg>

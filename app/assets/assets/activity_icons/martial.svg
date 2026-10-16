@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Küzdősport -->
+  <path d="M5.6 11.2 C5.6 6.6 8.8 3.8 12.6 3.8 H14.8 C18 3.8 19.8 6.4 19.8 9.8 V13.4 C19.8 15.8 18.2 17.2 16.2 17.2 H8.6 C6.8 17.2 5.6 16 5.6 14.4 Z" fill="#FE724B" stroke="#214F42" stroke-width="1.8"/>
+  <path d="M5.8 11.6 C8.2 11.2 10.2 12 11.2 13.6" stroke="#214F42" stroke-width="1.6" />
+  <rect x="8.2" y="17.2" width="9.4" height="3.8" rx="1" fill="none" stroke="#214F42" stroke-width="1.8"/>
+</svg>

@@ -1,0 +1,488 @@
+{
+ "version": 2,
+ "lang": "hu",
+ "title": "Hogyan lesz a szándékból szokás?",
+ "intro": [
+  "Egy szokás nem akaraterőből lesz, hanem ismétlésből. Ehhez nem kell tökéletesnek lenned: elég, ha újra és újra visszatérsz hozzá."
+ ],
+ "shortTitle": "Röviden",
+ "short": [
+  {
+   "lead": "Tervezz konkrétan.",
+   "text": "Döntsd el előre, melyik nap, mikor és mennyi ideig csinálod, így nem kell minden alkalommal újra eldöntened."
+  },
+  {
+   "lead": "Kezdj kisebbel, mint gondolnád.",
+   "text": "Egy rövid, de megtett alkalom többet ér egy hosszúnál, amelyre végül nem jut idő."
+  },
+  {
+   "lead": "Ugyanabban a helyzetben ismételd.",
+   "text": "Ha mindig ugyanahhoz a pillanathoz kötöd, idővel maga a helyzet emlékeztet rá."
+  },
+  {
+   "lead": "Rögzítsd, mi történt.",
+   "text": "A rögzítés tükör, nem osztályzat: megmutatja, mi működik, és min érdemes változtatni."
+  },
+  {
+   "lead": "Figyeld, mi esik jól.",
+   "text": "Nem a távoli cél hív vissza, hanem az, hogy maga az alkalom is jó volt."
+  },
+  {
+   "lead": "Ha kimaradt, kezdd újra, szégyen nélkül.",
+   "text": "Egy kihagyás nem nullázza le az eddigieket; hosszú távon a visszatérés számít."
+  },
+  {
+   "lead": "Ne egyedül csináld.",
+   "text": "Könnyebb kitartani, ha valaki figyel rád, és te is figyelsz valakire."
+  },
+  {
+   "lead": "Rendezd be a környezeted.",
+   "text": "Készítsd elő, amire szükséged lesz, és tedd szem elé; ebben az alkalmazás nem tud segíteni, de te igen."
+  }
+ ],
+ "sections": [
+  {
+   "id": "mi-a-szokas",
+   "title": "Mi a szokás valójában?",
+   "summary": "Olyan cselekvés, amelyet egy ismerős helyzet szinte magától elindít.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Az elején minden alkalomhoz döntés kell: „most csináljam?” Ha viszont sokszor, hasonló helyzetben ismétled, a helyzet (például reggel, kávé után) egyre inkább magától felidézi a cselekvést. Ekkor már kevesebb erőfeszítésbe kerül."
+    },
+    {
+     "type": "p",
+     "text": "Ez időbe telik, és mindenkinél másképp. Egy ismert vizsgálatban egy új, napi cselekvés jellemzően (mediánban) 66 nap alatt vált közel automatikussá. Az egyéni idők viszont 18 és 254 nap között szórtak, és az egyszerűbb cselekvések (például egy pohár víz) gyorsabban rögzültek, mint az összetettebbek (például edzés) [1]. A „21 nap alatt” típusú ígéretek tehát túl egyszerűek. Ha neked több idő kell, az nem hiba, hanem a természetes szórás része."
+    },
+    {
+     "type": "app",
+     "text": "**Ebben segít az alkalmazás:** a **Haladás** azt mutatja, hány héten adtál időt a szokásodnak. Nem napi sorozatot számol, és nem büntet egy-egy kimaradt napért."
+    }
+   ]
+  },
+  {
+   "id": "hogyan-tervezz",
+   "title": "Tervezz konkrétan: mikor, mennyi ideig, mit.",
+   "summary": "A konkrét terv sokkal jobban működik, mint az elhatározás.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Az „ezen a héten többet mozgok” jó szándék, de nem mondja meg, mikor kell elindulni. A „szerdán munka után 20 percet sétálok a parkban” már igen. A kutatásban ezt „ha–akkor” tervnek nevezik: *ha* eljön a helyzet, *akkor* ezt csinálom. Kilencvennégy vizsgálat összesítése szerint az ilyen tervek közepes–nagy mértékben segítik, hogy a szándékból tett legyen [2]."
+    },
+    {
+     "type": "p",
+     "text": "A legjobb, ha egy meglévő napi rutinhoz kötöd: „fogmosás után”, „amikor hazaérek”, „a reggeli kávé mellett”. Egy vizsgálatban a fogmosás utánra kötött fogselyem-használat így vált rendszeressé [3]."
+    },
+    {
+     "type": "app",
+     "text": "**Ebben segít az alkalmazás:** minden alkalom tervében ott a nap, a napszak vagy a pontos idő, az időtartam és a tevékenység. Ez pontosan egy „ha–akkor” terv. Ha tervezéskor magad elé tudod képzelni a helyzetet, jó a terv."
+    }
+   ]
+  },
+  {
+   "id": "kezdj-kicsiben",
+   "title": "Kezdj kisebbel, mint gondolnád.",
+   "summary": "A tíz perc, amit megcsinálsz, többet ér a hatvannál, amit nem.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Hajlamosak vagyunk alábecsülni, mennyi időt és energiát kívánnak a terveink; ezt nevezik tervezési tévedésnek [4]. Ha a terv túl nagy, a kimaradás csalódást hoz, és a csalódás könnyen feladáshoz vezet. A szokás alapja az ismétlés, nem a hossz [1, 5]."
+    },
+    {
+     "type": "p",
+     "text": "Gyakorlatban:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Az első hetekben inkább két-három rövid alkalmat tervezz, mint egy hosszút.",
+      "Ha elkezdted, és jólesik, nyugodtan csináld tovább. A terv a minimum, nem a plafon.",
+      "A rövidebb, de megtett alkalom is pozitív eredmény."
+     ]
+    },
+    {
+     "type": "app",
+     "text": "**Ebben segít az alkalmazás:** ha a tényleges idő rendszeresen rövidebb a tervezettnél, a **Haladás** kisebb, reálisabb tervet javasol. Dönteni te döntesz."
+    }
+   ]
+  },
+  {
+   "id": "te-dontesz",
+   "title": "Te döntesz.",
+   "summary": "A saját választásod tart meg hosszú távon, nem a kényszer.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A motivációkutatás egyik legjobban alátámasztott eredménye, hogy tartósabban kitartunk valami mellett, ha magunk választottuk, ha érezzük, hogy egyre jobban megy, és ha másokhoz is kapcsol minket [6]. Egészségügyi helyzetekben is azok a támogató környezetek jártak együtt jobb eredményekkel, amelyek a választás szabadságát erősítették, nem a kontrollt [7]."
+    },
+    {
+     "type": "p",
+     "text": "Gyakorlatban:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Olyan tevékenységet válassz, amelyet legalább egy kicsit szeretsz.",
+      "Változtass, ha unalmassá vált: a szokás a rendszeres időadás, nem egy konkrét gyakorlat.",
+      "Ha egy időszakban nem fér bele, szüneteltesd, ne erőltesd."
+     ]
+    },
+    {
+     "type": "app",
+     "text": "**Ebben segít az alkalmazás:** szabadon választhatsz tevékenységet, és alkalmanként cserélheted is. Te döntöd el, hogy az eredményed részleteit csak te látod, vagy a csoport is. A szokást bármikor szüneteltetheted vagy lezárhatod, az előzmény megmarad."
+    }
+   ]
+  },
+  {
+   "id": "rogzitsd",
+   "title": "Rögzítsd, mi történt.",
+   "summary": "A rögzítés tükör, nem osztályzat.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Aki rendszeresen ránéz a saját haladására, nagyobb eséllyel éri el a célját. Egy 138 kísérletet összesítő elemzés szerint a haladás követése érdemben segített, és akkor segített a legjobban, ha a résztvevők le is jegyezték vagy meg is osztották az eredményt [8]."
+    },
+    {
+     "type": "p",
+     "text": "A lényeg az őszinteség, nem a szép szám. Ha rövidebb lett, írd be rövidebbnek. Ha nem valósult meg, az is információ: talán rossz volt az időpont, vagy túl nagy a terv."
+    },
+    {
+     "type": "app",
+     "text": "**Ebben segít az alkalmazás:** a **Hogyan alakult?** kérdésnél a tényleges időt, napot, tevékenységet és élményt rögzíted. Ha elfelejtetted, később is pótolhatod a határidőig. A hiányzó eredmény nem kudarc, csak még ismeretlen."
+    }
+   ]
+  },
+  {
+   "id": "ami-jolesik",
+   "title": "Figyeld, mi esik jól.",
+   "summary": "Nem a távoli cél hív vissza, hanem az, hogy most is jó volt.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A hosszú távú célok (egészség, nyelvtudás) fontosak, de messze vannak. Kutatások szerint jobban kitartunk, ha maga a tevékenység is ad azonnali örömöt [9]. Ez lehet a friss levegő, egy jó beszélgetés, a zene vagy egyszerűen az érzés, hogy megtetted."
+    },
+    {
+     "type": "p",
+     "text": "Egy bevált fogás: kösd össze valamivel, amit szeretsz. Kedvenc podcastodat például csak séta közben hallgasd. Egy vizsgálatban ez a párosítás növelte az edzőterembe járást [10]."
+    },
+    {
+     "type": "app",
+     "text": "**Ebben segít az alkalmazás:** minden eredménynél megkérdezzük, **mennyire esett jól**. A Haladásban látod, mely tevékenységek és időpontok esnek a legjobban; ezekből érdemes többet tervezni."
+    }
+   ]
+  },
+  {
+   "id": "ritmus",
+   "title": "Lásd a ritmusodat.",
+   "summary": "Minden alkalom újabb bizonyíték arra, hogy ez hozzád tartozik.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Egy idő után nem csak annyit mondasz, hogy „ma futottam”, hanem azt is, hogy „futó vagyok”. A szokás és az önkép összefügg: amit rendszeresen csinálunk, az beépül abba, ahogy magunkra gondolunk, és ez is visszahat a viselkedésre [11]."
+    },
+    {
+     "type": "p",
+     "text": "Ehhez nem kell tökéletes sorozat. Elég, ha látod: hétről hétre helyet adsz neki."
+    },
+    {
+     "type": "app",
+     "text": "**Ebben segít az alkalmazás:** a **Haladás** a heti ritmusodat, az aktív heteidet, a ráfordított időt és a visszatéréseidet mutatja. Nincs rangsor, és nem hasonlítunk össze másokkal; a te történeted a mérce."
+    }
+   ]
+  },
+  {
+   "id": "ha-kimaradt",
+   "title": "Ha kimaradt, kezdd újra, szégyen nélkül.",
+   "summary": "Egy kihagyás nem nullázza le, amit eddig felépítettél.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Az élet közbeszól: betegség, munka, gyerek, utazás. A korábban említett vizsgálatban egy-egy kimaradt alkalom nem rontotta érdemben a szokás kialakulását [1]. Ami valóban árt, az a „már úgyis mindegy” érzés: egy botlás után sokan teljesen feladják [12]."
+    },
+    {
+     "type": "p",
+     "text": "Ami segít:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "**Légy hozzád is olyan, mint egy baráthoz.** Akik együttérzően kezelték a saját hibájukat, utána többet tettek a javításért, nem kevesebbet [13]. A szégyen inkább elkerüléshez vezet, a „hibáztam, és helyrehozom” érzés viszont cselekvéshez [14].",
+      "**Ne pótold duplán.** Ne próbáld egyszerre bepótolni a kimaradt alkalmakat; a következőt inkább tedd kisebbé.",
+      "**Használd az új kezdeteket.** Egy új hét, egy új hónap vagy egy új csoportkör természetes alkalom az újrakezdésre; a kutatások szerint az ilyen időpontokban könnyebben vágunk bele [15]."
+     ]
+    },
+    {
+     "type": "app",
+     "text": "**Ebben segít az alkalmazás:** a **Visszatérés** a Haladás egyik fő mutatója, mert hosszú távon ez számít a legtöbbet. A **Nem valósult meg** semleges állapot, nem minősít. Nincs napi sorozat, amelyet „elveszíthetnél”. Ha egy időszakban nem megy, a szokást szüneteltetheted."
+    }
+   ]
+  },
+  {
+   "id": "miert-konnyebb-egyutt",
+   "title": "Együtt könnyebb.",
+   "summary": "Ha tudod, hogy valaki számít rád, könnyebb elindulni.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A társas támogatás az egyik legerősebb segítség. Egy fogyókúrás vizsgálatban azok, akik barátokkal együtt jelentkeztek és egymást támogatták, sokkal nagyobb arányban tartották meg az eredményüket, mint akik egyedül vágtak bele [16]. A kapcsolódás élménye a tartós motiváció egyik alapja is [6]."
+    },
+    {
+     "type": "p",
+     "text": "Számít, hogy *ki* figyel. Ha egy csoportban „mindenki” figyel mindenkire, könnyen senki sem szól, mert mindenki a másikra vár [17]. Ezért nálunk minden héten pontosan egy ember figyel rád, és te is pontosan egy emberre figyelsz."
+    },
+    {
+     "type": "app",
+     "text": "**Ebben segít az alkalmazás:** a **Csináljuk együtt** egy meglévő szokásodból indít kétfős kört. Csoportban hétről hétre változik, ki kire figyel, így mindenki mindenkire sorra kerül. A közös héten látjátok egymás terveit, és azt, hogy foglalkoztatok-e vele; a részleteket mindenki maga dönti el, megosztja-e."
+    }
+   ]
+  },
+  {
+   "id": "felelosseg",
+   "title": "Felelősség valakiért, és valaki érted.",
+   "summary": "Másokra figyelni neked is erőt ad.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Ha tudod, hogy valaki számít rád, könnyebb felkelni a kanapéról. És ha te figyelsz valakire, az is jó: a mások támogatása sokaknak értelmet és erőt ad. Megfigyeléses kutatások szerint a támogatás nyújtása a támogató saját egészségével is együtt járhat [18]."
+    },
+    {
+     "type": "p",
+     "text": "A jó figyelés kérdez, nem számon kér. Az ítélkezés helyett a választás szabadságát meghagyó hangnem a hatékonyabb [7]."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Így érdemes",
+      "Így inkább ne"
+     ],
+     "rows": [
+      [
+       "„Láttam, hogy ezen a héten még nincs terved. Mikor férne bele egy rövid alkalom?”",
+       "„Már megint nem csináltad?”"
+      ],
+      [
+       "„Hogy vagy? Segíthetek valamiben?”",
+       "„Mindenki más megcsinálta.”"
+      ],
+      [
+       "„Szuper volt a szerdai séta!”",
+       "„Csak 15 perc volt?”"
+      ]
+     ]
+    },
+    {
+     "type": "app",
+     "text": "**Ebben segít az alkalmazás:** ha annak, akire figyelsz, nincs terve, vagy késik az eredménye, egyszer jelzést kapsz, hogy rákérdezz. Küldhetsz elismerést, bátorítást vagy játékos noszogatást. Nincs ranglista, és senkit nem állítunk pellengérre."
+    }
+   ]
+  },
+  {
+   "id": "ha-te-vagy-a-kapitany",
+   "title": "Ha te vagy a kapitány.",
+   "summary": "Nem edző vagy, hanem az, aki ügyel, hogy senki ne maradjon ki.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Háromfős vagy nagyobb csoportban minden héten más a kapitány. A feladatod egyszerű: ha valaki kimaradna a figyelésből, szólsz annak, aki rá figyel. A támogatott tagot nem te keresed meg helyette, és nem te mondod meg, mit csináljon."
+    },
+    {
+     "type": "p",
+     "text": "A forgó szerep azért jó, mert mindenki kipróbálja mindkét oldalt: hogy valaki számít rá, és hogy ő is számíthat valakire."
+    },
+    {
+     "type": "app",
+     "text": "**Ebben segít az alkalmazás:** a kapitányi heted elején röviden megmutatjuk, mit látsz és mikor kapsz teendőt. A teendőkártya mindig megmondja, mi az ok, és hogyan zárhatod le."
+    }
+   ]
+  },
+  {
+   "id": "kornyezet",
+   "title": "Amiben az alkalmazás nem tud segíteni, de te igen.",
+   "summary": "Amit látsz és ami kéznél van, azt könnyebb megcsinálni.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "A szokásokat erősen irányítja a környezet: amit látunk, ami kéznél van, és ami kevés előkészületet igényel [5, 19]. Ezt az alkalmazás nem tudja helyetted berendezni, de néhány perc alatt megteheted:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "**Készítsd elő előző este.** A futócipő az ajtó mellett, a sporttáska bepakolva, a jógamatrac kiterítve.",
+      "**Legyen szem előtt.** A könyv a párnán, a gitár állványon a tok helyett, a szókártyák a kávéfőző mellett.",
+      "**Csökkentsd az indulás akadályait.** Minél kevesebb lépés kell az elkezdéshez, annál könnyebb.",
+      "**Nehezítsd, ami elvonja a figyelmed.** A telefon egy másik szobában, a távirányító a fiókban.",
+      "**Ugyanott, ugyanakkor.** A stabil hely és időpont erősíti a helyzet emlékeztető hatását [3, 19].",
+      "**Mondd el valakinek személyesen is.** A kimondott szándék kötelez.",
+      "**Figyelj az alapokra.** Kialvatlanul, éhesen minden nehezebb. Ilyenkor a legkisebb változat is elég."
+     ]
+    }
+   ]
+  }
+ ],
+ "startTitle": "Hogyan kezdj hozzá?",
+ "startIntro": [
+  "Háromféleképpen indulhatsz. Mindegyik jó; az a legjobb, amelyik a mostani helyzetedhez illik."
+ ],
+ "start": [
+  {
+   "id": "egyedul",
+   "title": "1. Egyedül, egy szokással",
+   "summary": "Ha előbb csendben kipróbálnád.",
+   "open": true,
+   "blocks": [
+    {
+     "type": "ul",
+     "items": [
+      "Ingyenes, vendégként, regisztráció nélkül is.",
+      "Válassz **egy** szokást, és tervezz erre a hétre két-három rövid alkalmat.",
+      "Rögzítsd, hogyan alakult. Két-három hét múlva nézd meg a **Haladást**.",
+      "Amikor kedved van, hívj meg valakit a **Csináljuk együtt** gombbal. A meglévő szokásod a csoporthoz kapcsolható: az új alkalmaid egyszerre számítanak a szokásodban és a csoportban, a hosszú távú Haladásod pedig egyben marad."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kettesben",
+   "title": "2. Kettesben",
+   "summary": "Ha van egy ember, akivel szívesen csinálnád.",
+   "open": false,
+   "blocks": [
+    {
+     "type": "ul",
+     "items": [
+      "A kétfős kör korlátlanul ingyenes.",
+      "Egymásra figyeltek: ha valamelyikőtöknek nincs terve, vagy késik az eredménye, a másik egyszer jelzést kap, hogy rákérdezzen.",
+      "Nem kell ugyanazt csinálnotok. Az egyikőtök futhat, a másik úszhat, ha ugyanabban a fő kategóriában vagytok.",
+      "Ez a legegyszerűbb társas forma; később harmadik embert is meghívhattok."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "csoportban",
+   "title": "3. Csoportban, 3–8 fővel",
+   "summary": "Ha már van egy csapatod.",
+   "open": false,
+   "blocks": [
+    {
+     "type": "ul",
+     "items": [
+      "Baráti kör, edzőtársak, kollégák, olvasókör, nyelvtanuló csoport.",
+      "A csoport 4, 8 vagy 12 hetes körben működik, hétfőn indul; addig a **Bemelegítő hét** alatt már együtt kezdhettek.",
+      "Minden héten más figyel rád, és a kapitány szerepe is forog.",
+      "A létrehozó első csoportja négy hétig ingyenes próba. Utána körönként egy tag fizet, a többieknek a részvétel ingyenes."
+     ]
+    }
+   ]
+  }
+ ],
+ "startOutro": [
+  "**Ha bizonytalan vagy:** kezdd egyedül egy-két hétig, utána hívj meg egy embert.",
+  "**Ha már van csapatod:** indítsd rögtön a csoportot; a bemelegítő hét éppen erre való."
+ ],
+ "disclaimer": [
+  "*Ez az útmutató általános tájékoztatás, nem orvosi tanács. Ha egészségi állapotod miatt bizonytalan vagy egy tevékenység terhelésében, kérdezd meg orvosodat.*"
+ ],
+ "sources": {
+  "id": "forrasok",
+  "title": "Források",
+  "summary": "A felhasznált kutatások listája, eredeti nyelven.",
+  "items": [
+   {
+    "n": 1,
+    "text": "Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. *European Journal of Social Psychology, 40*(6), 998–1009.",
+    "url": "https://doi.org/10.1002/ejsp.674"
+   },
+   {
+    "n": 2,
+    "text": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. *Advances in Experimental Social Psychology, 38*, 69–119.",
+    "url": "https://doi.org/10.1016/S0065-2601(06)38002-1"
+   },
+   {
+    "n": 3,
+    "text": "Judah, G., Gardner, B., & Aunger, R. (2013). Forming a flossing habit: An exploratory study of the psychological determinants of habit formation. *British Journal of Health Psychology, 18*(2), 338–353.",
+    "url": "https://doi.org/10.1111/j.2044-8287.2012.02086.x"
+   },
+   {
+    "n": 4,
+    "text": "Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the \"planning fallacy\": Why people underestimate their task completion times. *Journal of Personality and Social Psychology, 67*(3), 366–381.",
+    "url": "https://doi.org/10.1037/0022-3514.67.3.366"
+   },
+   {
+    "n": 5,
+    "text": "Gardner, B., Lally, P., & Wardle, J. (2012). Making health habitual: The psychology of \"habit-formation\" and general practice. *British Journal of General Practice, 62*(605), 664–666.",
+    "url": "https://doi.org/10.3399/bjgp12X659466"
+   },
+   {
+    "n": 6,
+    "text": "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.",
+    "url": "https://doi.org/10.1037/0003-066X.55.1.68"
+   },
+   {
+    "n": 7,
+    "text": "Ng, J. Y. Y., Ntoumanis, N., Thøgersen-Ntoumani, C., Deci, E. L., Ryan, R. M., Duda, J. L., & Williams, G. C. (2012). Self-determination theory applied to health contexts: A meta-analysis. *Perspectives on Psychological Science, 7*(4), 325–340.",
+    "url": "https://doi.org/10.1177/1745691612447309"
+   },
+   {
+    "n": 8,
+    "text": "Harkin, B., Webb, T. L., Chang, B. P. I., Prestwich, A., Conner, M., Kellar, I., Benn, Y., & Sheeran, P. (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. *Psychological Bulletin, 142*(2), 198–229.",
+    "url": "https://doi.org/10.1037/bul0000025"
+   },
+   {
+    "n": 9,
+    "text": "Woolley, K., & Fishbach, A. (2016). For the fun of it: Harnessing immediate rewards to increase persistence in long-term goals. *Journal of Consumer Research, 42*(6), 952–966.",
+    "url": "https://doi.org/10.1093/jcr/ucv098"
+   },
+   {
+    "n": 10,
+    "text": "Milkman, K. L., Minson, J. A., & Volpp, K. G. M. (2014). Holding the Hunger Games hostage at the gym: An evaluation of temptation bundling. *Management Science, 60*(2), 283–299.",
+    "url": "https://doi.org/10.1287/mnsc.2013.1784"
+   },
+   {
+    "n": 11,
+    "text": "Verplanken, B., & Sui, J. (2019). Habit and identity: Behavioral, cognitive, affective, and motivational facets of an integrated self. *Frontiers in Psychology, 10*, 1504.",
+    "url": "https://doi.org/10.3389/fpsyg.2019.01504"
+   },
+   {
+    "n": 12,
+    "text": "Cochran, W., & Tesser, A. (1996). The \"what the hell\" effect: Some effects of goal proximity and goal framing on performance. In L. L. Martin & A. Tesser (Eds.), *Striving and feeling: Interactions among goals, affect, and self-regulation* (pp. 99–120). Lawrence Erlbaum.",
+    "url": null
+   },
+   {
+    "n": 13,
+    "text": "Breines, J. G., & Chen, S. (2012). Self-compassion increases self-improvement motivation. *Personality and Social Psychology Bulletin, 38*(9), 1133–1143.",
+    "url": "https://doi.org/10.1177/0146167212445599"
+   },
+   {
+    "n": 14,
+    "text": "Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). Moral emotions and moral behavior. *Annual Review of Psychology, 58*, 345–372.",
+    "url": "https://doi.org/10.1146/annurev.psych.56.091103.070145"
+   },
+   {
+    "n": 15,
+    "text": "Dai, H., Milkman, K. L., & Riis, J. (2014). The fresh start effect: Temporal landmarks motivate aspirational behavior. *Management Science, 60*(10), 2563–2582.",
+    "url": "https://doi.org/10.1287/mnsc.2014.1901"
+   },
+   {
+    "n": 16,
+    "text": "Wing, R. R., & Jeffery, R. W. (1999). Benefits of recruiting participants with friends and increasing social support for weight loss and maintenance. *Journal of Consulting and Clinical Psychology, 67*(1), 132–138.",
+    "url": "https://doi.org/10.1037/0022-006X.67.1.132"
+   },
+   {
+    "n": 17,
+    "text": "Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. *Journal of Personality and Social Psychology, 8*(4), 377–383.",
+    "url": "https://doi.org/10.1037/h0025589"
+   },
+   {
+    "n": 18,
+    "text": "Brown, S. L., Nesse, R. M., Vinokur, A. D., & Smith, D. M. (2003). Providing social support may be more beneficial than receiving it: Results from a prospective study of mortality. *Psychological Science, 14*(4), 320–327.",
+    "url": "https://doi.org/10.1111/1467-9280.14461"
+   },
+   {
+    "n": 19,
+    "text": "Wood, W., & Rünger, D. (2016). Psychology of habit. *Annual Review of Psychology, 67*, 289–314.",
+    "url": "https://doi.org/10.1146/annurev-psych-122414-033417"
+   }
+  ]
+ }
+}

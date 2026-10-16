@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Te döntesz – útjelző két iránnyal -->
+  <path d="M24 7 V42 M18 42 H30" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M24 11 H37 L41 15.5 L37 20 H24 Z" fill="#FE724B" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M24 24 H11 L7 28.5 L11 33 H24 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+</svg>

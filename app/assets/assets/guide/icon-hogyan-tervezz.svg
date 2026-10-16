@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Tervezz konkrétan – naptár órával -->
+  <rect x="7" y="11" width="27" height="25" rx="3" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M7 18.5 H34" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M14 8 V13 M27 8 V13" stroke="#214F42" stroke-width="2.6"/>
+  <circle cx="13.5" cy="25" r="1.4" fill="#214F42"/>
+  <circle cx="20.5" cy="25" r="1.4" fill="#214F42"/>
+  <circle cx="13.5" cy="30.5" r="1.4" fill="#214F42"/>
+  <circle cx="33" cy="33" r="9" fill="#FE724B" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M33 28.5 V33 L36.5 35" stroke="#214F42" stroke-width="2.6"/>
+</svg>

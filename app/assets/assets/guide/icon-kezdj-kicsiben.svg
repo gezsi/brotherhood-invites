@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Kezdj kisebbel – az első lépcsőfok -->
+  <rect x="7" y="31" width="10" height="9" fill="#FE724B"/>
+  <path d="M5 40 H43" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M7 40 V31 H17 V23 H27 V15 H38 V40" stroke="#214F42" stroke-width="2.6"/>
+</svg>

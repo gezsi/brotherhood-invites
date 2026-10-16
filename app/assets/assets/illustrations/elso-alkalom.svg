@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" width="240" height="180" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Megvan az első alkalom: kinyitott jegyzetfüzet pipával, kis csillanással. Vonal: #214F42, folt: #FE724B, alap: #E1F0E5 -->
+  <ellipse cx="120" cy="150" rx="78" ry="9" fill="#E1F0E5"/>
+  <circle cx="176" cy="56" r="28" fill="#FE724B"/>
+  <path d="M120 58 Q96 48 62 52 V136 Q96 132 120 144 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M120 58 Q144 48 178 52 V136 Q144 132 120 144 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M120 58 V144" stroke="#214F42" stroke-width="3"/>
+  <path d="M76 74 H106 M76 88 H102 M76 102 H106 M76 116 H96" stroke="#214F42" stroke-width="2.4"/>
+  <path d="M136 98 L149 111 L166 84" stroke="#214F42" stroke-width="4"/>
+  <path d="M200 22 V38 M192 30 H208 M195 25 L197.5 27.5 M205 25 L202.5 27.5" stroke="#214F42" stroke-width="2.4"/>
+</svg>

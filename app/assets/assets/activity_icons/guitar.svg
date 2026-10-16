@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Gitár -->
+  <path d="M12.4 11.4 L20 3.8" stroke="#214F42" stroke-width="2.2" />
+  <path d="M18.8 2.8 L21.2 5.2" stroke="#214F42" stroke-width="3.2" />
+  <circle cx="8.4" cy="16.2" r="4.8" fill="none" stroke="#214F42" stroke-width="3.6"/>
+  <circle cx="11.4" cy="12.6" r="3.3" fill="none" stroke="#214F42" stroke-width="3.6"/>
+  <circle cx="8.4" cy="16.2" r="4.8" fill="#FE724B"/>
+  <circle cx="11.4" cy="12.6" r="3.3" fill="#FE724B"/>
+  <circle cx="9.6" cy="14.6" r="1.4" fill="#214F42"/>
+  <path d="M6 18 L8 20" stroke="#214F42" stroke-width="1.6" />
+</svg>

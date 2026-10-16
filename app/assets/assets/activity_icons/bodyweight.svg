@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Saját testsúlyos edzés -->
+  <rect x="2.4" y="17.6" width="19.4" height="2.6" rx="1.3" fill="#FE724B"/>
+  <circle cx="5" cy="9.8" r="2.2" fill="#214F42"/>
+  <path d="M7.2 11 L19.2 15.4 L21.2 17" stroke="#214F42" stroke-width="2" />
+  <path d="M8.8 11.6 L8.4 17.4" stroke="#214F42" stroke-width="2" />
+</svg>

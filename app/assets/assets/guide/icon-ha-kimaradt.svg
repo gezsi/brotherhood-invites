@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ha kimaradt – a kanyargó ösvény folytatódik a cél felé -->
+  <circle cx="35" cy="11" r="7" fill="#FE724B"/>
+  <path d="M9 42 C9 31 33 34 31 24 C30 17 20 19 25 12" stroke="#214F42" stroke-width="4" stroke-dasharray="0.1 6.5"/>
+</svg>

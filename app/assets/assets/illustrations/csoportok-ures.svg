@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" width="240" height="180" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Csoportok, még csoport nélkül: asztal két bögrével és egy üres székkel – hívj meg valakit. Vonal: #214F42, folt: #FE724B -->
+  <circle cx="198" cy="112" r="32" fill="#FE724B"/>
+  <path d="M14 158 H226" stroke="#214F42" stroke-width="3"/>
+  <rect x="28" y="100" width="136" height="10" rx="3" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M42 110 V158 M150 110 V158" stroke="#214F42" stroke-width="3"/>
+  <path d="M60 76 H84 V96 Q84 100 80 100 H64 Q60 100 60 96 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M84 81 Q93 81 93 88 Q93 95 84 95" stroke="#214F42" stroke-width="3"/>
+  <path d="M106 76 H130 V96 Q130 100 126 100 H110 Q106 100 106 96 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M130 81 Q139 81 139 88 Q139 95 130 95" stroke="#214F42" stroke-width="3"/>
+  <path d="M68 66 Q64 60 68 54 M76 66 Q72 60 76 54 M114 66 Q110 60 114 54 M122 66 Q118 60 122 54" stroke="#214F42" stroke-width="2.4"/>
+  <path d="M212 70 V158" stroke="#214F42" stroke-width="3"/>
+  <rect x="178" y="118" width="34" height="8" rx="3" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M182 126 V158" stroke="#214F42" stroke-width="3"/>
+</svg>

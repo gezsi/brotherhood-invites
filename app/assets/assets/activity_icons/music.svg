@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Zene -->
+  <path d="M8.8 17 V5.6 L19 3.2 V14.8 M8.8 8.6 L19 6.2" stroke="#214F42" stroke-width="2" />
+  <ellipse cx="6.6" cy="17.4" rx="2.6" ry="2" fill="#FE724B" stroke="#214F42" stroke-width="1.6" transform="rotate(-20 6.6 17.4)"/>
+  <ellipse cx="16.8" cy="15.2" rx="2.6" ry="2" fill="#FE724B" stroke="#214F42" stroke-width="1.6" transform="rotate(-20 16.8 15.2)"/>
+</svg>

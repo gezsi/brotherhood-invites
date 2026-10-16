@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- A környezet – bepakolt sporttáska az ajtó mellett -->
+  <rect x="28" y="7" width="15" height="33" rx="1.5" fill="#E1F0E5" stroke="#214F42" stroke-width="2.6"/>
+  <circle cx="31.5" cy="24" r="1.5" fill="#214F42"/>
+  <path d="M10 28 C10 21 20 21 20 28" stroke="#214F42" stroke-width="2.6"/>
+  <rect x="4" y="27" width="22" height="13" rx="4" fill="#FE724B" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M9 32.5 H21" stroke="#214F42" stroke-width="2.2"/>
+  <path d="M2 40.5 H46" stroke="#214F42" stroke-width="2.6"/>
+</svg>

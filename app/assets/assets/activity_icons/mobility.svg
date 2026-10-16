@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Mobilizálás -->
+  <path d="M4.2 12.8 A8.6 8.6 0 0 0 7.2 19.4 M19.8 12.8 A8.6 8.6 0 0 1 16.8 19.4" stroke="#FE724B" stroke-width="1.8" />
+  <path d="M5.2 18 L7.2 19.4 L6.6 16.9 M18.8 18 L16.8 19.4 L17.4 16.9" stroke="#FE724B" stroke-width="1.6" />
+  <circle cx="12" cy="4" r="2.2" fill="#214F42"/>
+  <path d="M12 6.6 V13.6 M6.4 9.6 L12 8.4 L17.6 9.6 M12 13.6 L9.4 20.4 M12 13.6 L14.6 20.4" stroke="#214F42" stroke-width="2" />
+</svg>

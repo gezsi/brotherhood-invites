@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Szókincs -->
+  <rect x="8.6" y="3.4" width="12" height="15" rx="2" fill="#FE724B" stroke="#214F42" stroke-width="1.8" transform="rotate(10 14.6 10.9)"/>
+  <rect x="3.6" y="6" width="12" height="15" rx="2" fill="#F4F3ED" stroke="#214F42" stroke-width="1.8"/>
+  <path d="M7.2 17.4 L9.6 10.6 L12 17.4 M8.1 15 H11.1" stroke="#214F42" stroke-width="1.6" />
+</svg>

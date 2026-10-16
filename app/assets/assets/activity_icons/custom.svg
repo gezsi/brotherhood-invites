@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Saját tevékenység -->
+  <path d="M11 3 C11.8 7.6 13.4 9.2 18 10 C13.4 10.8 11.8 12.4 11 17 C10.2 12.4 8.6 10.8 4 10 C8.6 9.2 10.2 7.6 11 3 Z" fill="#FE724B" stroke="#214F42" stroke-width="1.6"/>
+  <path d="M18 14.6 C18.4 16.4 19 17 20.8 17.4 C19 17.8 18.4 18.4 18 20.2 C17.6 18.4 17 17.8 15.2 17.4 C17 17 17.6 16.4 18 14.6 Z" fill="#214F42" />
+</svg>

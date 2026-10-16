@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Foci -->
+  <path d="M12 5.6 L9.31 3.2 L14.69 3.2 Z" fill="#214F42" />
+  <path d="M18.09 10.02 L19.54 6.72 L21.2 11.84 Z" fill="#214F42" />
+  <path d="M15.76 17.18 L19.35 17.54 L15 20.7 Z" fill="#214F42" />
+  <path d="M8.24 17.18 L9 20.7 L4.65 17.54 Z" fill="#214F42" />
+  <path d="M5.91 10.02 L2.8 11.84 L4.46 6.72 Z" fill="#214F42" />
+  <circle cx="12" cy="12" r="9.2" fill="none" stroke="#214F42" stroke-width="2"/>
+  <path d="M12 8.8 L15.04 11.01 L13.88 14.59 L10.12 14.59 L8.96 11.01 Z" fill="#FE724B" stroke="#214F42" stroke-width="1.6"/>
+  <path d="M12 8.8 L12 5.6 M15.04 11.01 L18.09 10.02 M13.88 14.59 L15.76 17.18 M10.12 14.59 L8.24 17.18 M8.96 11.01 L5.91 10.02" stroke="#214F42" stroke-width="1.6" />
+</svg>

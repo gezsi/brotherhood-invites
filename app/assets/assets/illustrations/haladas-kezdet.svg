@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" width="240" height="180" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Haladás kevés adattal: csíra cserépben, kis öntözőkannával. Vonal: #214F42, folt: #FE724B, alap: #E1F0E5 -->
+  <ellipse cx="120" cy="156" rx="92" ry="10" fill="#E1F0E5"/>
+  <circle cx="112" cy="62" r="30" fill="#FE724B"/>
+  <path d="M24 156 H216" stroke="#214F42" stroke-width="3"/>
+  <path d="M112 104 V72" stroke="#214F42" stroke-width="3"/>
+  <path d="M112 90 C100 90 90 82 90 70 C102 70 112 78 112 90 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M112 80 C124 80 136 72 136 58 C122 58 112 66 112 80 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M90 112 H134 L128 156 H96 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <rect x="84" y="102" width="56" height="12" rx="3" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M166 124 H198 V152 Q198 156 194 156 H170 Q166 156 166 152 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M166 132 L148 116" stroke="#214F42" stroke-width="3"/>
+  <path d="M144 112 L152 120" stroke="#214F42" stroke-width="4"/>
+  <path d="M172 124 Q182 104 192 124" stroke="#214F42" stroke-width="3"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Kettesben – két alak egymás mellett -->
+  <circle cx="32" cy="17" r="9" fill="#FE724B"/>
+  <circle cx="32" cy="17" r="5.5" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M22 41 C22 29 42 29 42 41" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <circle cx="16" cy="17" r="5.5" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M6 41 C6 29 26 29 26 41" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Felelősség valakiért – megtartott szív -->
+  <path d="M24 28 C14 22 12 16.5 15.5 13 C18.5 10 22.5 11 24 14 C25.5 11 29.5 10 32.5 13 C36 16.5 34 22 24 28 Z" fill="#FE724B" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M7 30 C11 41 37 41 41 30" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M7 30 L5 26.5 M41 30 L43 26.5" stroke="#214F42" stroke-width="2.6"/>
+</svg>

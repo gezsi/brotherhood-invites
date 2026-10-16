@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <base href="/brotherhood-invites/app/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="Brotherhood – heti tervek és eredmények több kategóriában, öt nyelven. Webes tesztváltozat.">
+  <meta name="referrer" content="no-referrer">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#214f42">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <title>BotherHood</title>
+  <link rel="manifest" href="manifest.json">
+  <style>
+    body { margin:0; background:#f4f3ed; }
+    #startup { position:fixed; inset:0; display:flex; flex-direction:column;
+      justify-content:center; align-items:center; padding:32px; text-align:center;
+      font:17px/1.5 system-ui,sans-serif; color:#214f42; }
+    #startup p { max-width:440px; }
+    #startup button { border:0; border-radius:20px; padding:12px 24px;
+      background:#214f42; color:white; font:inherit; cursor:pointer; }
+  </style>
+</head>
+<body>
+  <div id="startup" role="status"><p id="startup-text">BotherHood</p><button id="startup-retry" hidden></button></div>
+  <noscript>Please enable JavaScript to use BotherHood.</noscript>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

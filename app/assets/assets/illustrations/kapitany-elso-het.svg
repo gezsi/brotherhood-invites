@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" width="240" height="180" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Első kapitányi hét: a csoportkör, középen a kapitány (a felhasználó, narancs folt), aki a figyelés körét követi. -->
+<circle cx="120" cy="88" r="86" fill="#E1F0E5"/>
+<circle cx="120" cy="88" r="26" fill="#FE724B"/>
+<path d="M105.0 160.5 C105.0 149.5 135.0 149.5 135.0 160.5" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+<circle cx="120.0" cy="142.0" r="10" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+<path d="M47.9 119.0 C47.9 108.0 77.9 108.0 77.9 119.0" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+<circle cx="62.9" cy="100.5" r="10" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+<path d="M69.7 52.0 C69.7 41.0 99.7 41.0 99.7 52.0" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+<circle cx="84.7" cy="33.5" r="10" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+<path d="M140.3 52.0 C140.3 41.0 170.3 41.0 170.3 52.0" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+<circle cx="155.3" cy="33.5" r="10" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+<path d="M162.1 119.0 C162.1 108.0 192.1 108.0 192.1 119.0" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+<circle cx="177.1" cy="100.5" r="10" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+<path d="M106 108 C106 95 134 95 134 108" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/><circle cx="120" cy="82" r="10" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+<path d="M100.4 144.7 A60.0 60.0 0 0 1 72.1 124.2" stroke="#214F42" stroke-width="2.6"/><path d="M72.8 132.5 L72.1 124.2 L80.0 127.1" stroke="#214F42" stroke-width="2.6"/>
+<path d="M60.0 86.8 A60.0 60.0 0 0 1 70.8 53.7" stroke="#214F42" stroke-width="2.6"/><path d="M63.1 56.8 L70.8 53.7 L70.5 62.0" stroke="#214F42" stroke-width="2.6"/>
+<path d="M102.6 30.6 A60.0 60.0 0 0 1 137.4 30.6" stroke="#214F42" stroke-width="2.6"/><path d="M132.1 24.3 L137.4 30.6 L129.4 32.9" stroke="#214F42" stroke-width="2.6"/>
+<path d="M169.2 53.7 A60.0 60.0 0 0 1 180.0 86.8" stroke="#214F42" stroke-width="2.6"/><path d="M184.4 79.8 L180.0 86.8 L175.4 79.9" stroke="#214F42" stroke-width="2.6"/>
+<path d="M167.9 124.2 A60.0 60.0 0 0 1 139.6 144.7" stroke="#214F42" stroke-width="2.6"/><path d="M147.7 146.7 L139.6 144.7 L144.8 138.2" stroke="#214F42" stroke-width="2.6"/>
+</svg>

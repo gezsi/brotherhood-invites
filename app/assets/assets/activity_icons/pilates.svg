@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Pilates -->
+  <rect x="2" y="18.6" width="20" height="2.2" rx="1.1" fill="#FE724B"/>
+  <circle cx="4.8" cy="15.8" r="2.2" fill="#214F42"/>
+  <path d="M7 16.6 H13.2 L18.4 9 M13.2 16.6 L19.6 15.4 M8.4 17.6 L11.6 17.6" stroke="#214F42" stroke-width="2" />
+</svg>

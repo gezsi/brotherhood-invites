@@ -1,0 +1,488 @@
+{
+ "version": 2,
+ "lang": "es",
+ "title": "¿Cómo se convierte una intención en un hábito?",
+ "intro": [
+  "Un hábito no nace de la fuerza de voluntad, sino de la repetición. No hace falta que seas perfecto: basta con que vuelvas a él una y otra vez."
+ ],
+ "shortTitle": "En resumen",
+ "short": [
+  {
+   "lead": "Planifica de forma concreta.",
+   "text": "Decide de antemano qué día, cuándo y durante cuánto tiempo lo harás, así no tendrás que volver a decidirlo cada vez."
+  },
+  {
+   "lead": "Empieza más pequeño de lo que crees.",
+   "text": "Una sesión corta que de verdad ocurre vale más que una larga para la que al final no encuentras tiempo."
+  },
+  {
+   "lead": "Repítelo en la misma situación.",
+   "text": "Si siempre lo vinculas al mismo momento, con el tiempo la propia situación te lo recordará."
+  },
+  {
+   "lead": "Registra lo que pasó.",
+   "text": "Registrar es un espejo, no una nota: muestra qué funciona y qué vale la pena cambiar."
+  },
+  {
+   "lead": "Fíjate en lo que te sienta bien.",
+   "text": "Lo que te hace volver no es la meta lejana, sino que la propia sesión te haya sentado bien."
+  },
+  {
+   "lead": "Si te lo saltaste, vuelve a empezar sin vergüenza.",
+   "text": "Una ausencia no borra lo que has construido; a la larga, lo que cuenta es volver."
+  },
+  {
+   "lead": "No lo hagas solo.",
+   "text": "Es más fácil seguir cuando alguien está pendiente de ti y tú también estás pendiente de alguien."
+  },
+  {
+   "lead": "Prepara tu entorno.",
+   "text": "Ten listo lo que necesitarás y déjalo a la vista; en esto la app no puede ayudarte, pero tú sí."
+  }
+ ],
+ "sections": [
+  {
+   "id": "mi-a-szokas",
+   "title": "¿Qué es realmente un hábito?",
+   "summary": "Una acción que una situación conocida pone en marcha casi sola.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Al principio, cada sesión requiere una decisión: «¿Lo hago ahora?». Pero si la repites a menudo en una situación parecida, esa situación (por ejemplo, por la mañana después del café) te trae la acción a la mente cada vez más por sí sola. Entonces cuesta menos esfuerzo."
+    },
+    {
+     "type": "p",
+     "text": "Esto lleva tiempo y es distinto para cada persona. En un estudio conocido, una nueva acción diaria tardó típicamente (en la mediana) 66 días en volverse casi automática. Sin embargo, los tiempos individuales oscilaron entre 18 y 254 días, y las acciones más sencillas (como beber un vaso de agua) se automatizaron antes que las más complejas (como hacer ejercicio) [1]. Por eso, las promesas del tipo «en 21 días» son demasiado simples. Si necesitas más tiempo, no es un fallo, sino parte de la variación natural."
+    },
+    {
+     "type": "app",
+     "text": "**Cómo te ayuda la app:** el **Progreso** muestra en cuántas semanas le dedicaste tiempo a tu hábito. No cuenta rachas diarias ni te castiga por un día que te saltaste."
+    }
+   ]
+  },
+  {
+   "id": "hogyan-tervezz",
+   "title": "Planifica de forma concreta: cuándo, cuánto tiempo, qué.",
+   "summary": "Un plan concreto funciona mucho mejor que un propósito.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "«Esta semana me moveré más» es una buena intención, pero no dice cuándo empezar. «El miércoles después del trabajo caminaré 20 minutos por el parque», sí. En la investigación esto se llama plan «si–entonces»: *si* llega la situación, *entonces* hago esto. Según un resumen de 94 estudios, este tipo de planes ayuda en un grado medio o grande a convertir la intención en acción [2]."
+    },
+    {
+     "type": "p",
+     "text": "Funciona mejor si lo vinculas a una rutina diaria que ya tienes: «después de lavarme los dientes», «al llegar a casa», «con el café de la mañana». En un estudio, el uso del hilo dental vinculado al cepillado se volvió habitual de esta manera [3]."
+    },
+    {
+     "type": "app",
+     "text": "**Cómo te ayuda la app:** cada plan de sesión incluye el día, la franja del día o la hora exacta, la duración y la actividad. Eso es exactamente un plan «si–entonces». Si al planificar puedes imaginarte la situación, el plan es bueno."
+    }
+   ]
+  },
+  {
+   "id": "kezdj-kicsiben",
+   "title": "Empieza más pequeño de lo que crees.",
+   "summary": "Los diez minutos que haces valen más que los sesenta que no haces.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Solemos subestimar cuánto tiempo y energía exigen nuestros planes; es lo que se llama la falacia de la planificación [4]. Si el plan es demasiado grande, saltarlo trae decepción, y la decepción lleva fácilmente a abandonar. Un hábito se basa en la repetición, no en la duración [1, 5]."
+    },
+    {
+     "type": "p",
+     "text": "En la práctica:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "En las primeras semanas, planifica dos o tres sesiones cortas en lugar de una larga.",
+      "Si has empezado y te sienta bien, sigue sin problema. El plan es el mínimo, no el techo.",
+      "Una sesión más corta que sí hiciste también es un resultado positivo."
+     ]
+    },
+    {
+     "type": "app",
+     "text": "**Cómo te ayuda la app:** si tu tiempo real es a menudo más corto de lo planificado, el **Progreso** te sugiere un plan más pequeño y realista. La decisión es tuya."
+    }
+   ]
+  },
+  {
+   "id": "te-dontesz",
+   "title": "Tú decides.",
+   "summary": "A largo plazo te sostiene tu propia elección, no la obligación.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Uno de los hallazgos mejor respaldados de la investigación sobre la motivación es que mantenemos algo durante más tiempo si lo hemos elegido nosotros, si sentimos que cada vez nos sale mejor y si nos conecta con otras personas [6]. También en el ámbito de la salud, los entornos de apoyo que reforzaban la libertad de elección, en lugar del control, se asociaron con mejores resultados [7]."
+    },
+    {
+     "type": "p",
+     "text": "En la práctica:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "Elige una actividad que te guste al menos un poco.",
+      "Cámbiala si se vuelve aburrida: el hábito es dedicarle tiempo con regularidad, no un ejercicio concreto.",
+      "Si en una etapa de tu vida no cabe, ponlo en pausa en lugar de forzarlo."
+     ]
+    },
+    {
+     "type": "app",
+     "text": "**Cómo te ayuda la app:** eliges las actividades libremente y puedes cambiarlas de una sesión a otra. Tú decides si los detalles de tus resultados los ves solo tú o también el grupo. Puedes pausar o cerrar un hábito en cualquier momento, y su historial se conserva."
+    }
+   ]
+  },
+  {
+   "id": "rogzitsd",
+   "title": "Registra lo que pasó.",
+   "summary": "Registrar es un espejo, no una nota.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Quien revisa con regularidad su propio progreso tiene más probabilidades de alcanzar su meta. Según un análisis de 138 experimentos, seguir el progreso ayudó de forma notable, y ayudó más cuando los participantes también anotaban o compartían sus resultados [8]."
+    },
+    {
+     "type": "p",
+     "text": "Lo importante es la sinceridad, no una cifra bonita. Si fue más corto, regístralo como más corto. Si no se realizó, eso también es información: quizá el momento no era el adecuado o el plan era demasiado grande."
+    },
+    {
+     "type": "app",
+     "text": "**Cómo te ayuda la app:** en **¿Qué tal fue?** registras el tiempo real, el día, la actividad y cómo te sentó. Si se te olvidó, puedes añadirlo más tarde, hasta la fecha límite. Un resultado que falta no es un fracaso, solo algo que aún no se sabe."
+    }
+   ]
+  },
+  {
+   "id": "ami-jolesik",
+   "title": "Fíjate en lo que te sienta bien.",
+   "summary": "Lo que te hace volver no es la meta lejana, sino que esta vez también te sentó bien.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Las metas a largo plazo (la salud, dominar un idioma) son importantes, pero están lejos. Los estudios muestran que perseveramos más cuando la propia actividad aporta un disfrute inmediato [9]. Puede ser el aire fresco, una buena conversación, la música o simplemente la sensación de haberlo hecho."
+    },
+    {
+     "type": "p",
+     "text": "Un truco probado: combínalo con algo que te guste. Por ejemplo, escucha tu pódcast favorito solo mientras caminas. En un estudio, esta combinación aumentó las visitas al gimnasio [10]."
+    },
+    {
+     "type": "app",
+     "text": "**Cómo te ayuda la app:** en cada resultado te preguntamos **cómo te sentó**. En el Progreso ves qué actividades y horarios te sientan mejor; vale la pena planificar más de esos."
+    }
+   ]
+  },
+  {
+   "id": "ritmus",
+   "title": "Mira tu ritmo.",
+   "summary": "Cada sesión es una prueba más de que esto forma parte de ti.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Con el tiempo ya no solo dices «hoy he salido a correr», sino también «soy corredor» o «soy corredora». El hábito y la imagen de uno mismo están relacionados: lo que hacemos con regularidad pasa a formar parte de cómo nos vemos, y eso a su vez influye en nuestro comportamiento [11]."
+    },
+    {
+     "type": "p",
+     "text": "Para ello no necesitas una racha perfecta. Basta con ver que, semana tras semana, le haces un hueco."
+    },
+    {
+     "type": "app",
+     "text": "**Cómo te ayuda la app:** el **Progreso** muestra tu ritmo semanal, tus semanas activas, el tiempo dedicado y tus regresos. No hay clasificación ni te comparamos con nadie; la medida es tu propia historia."
+    }
+   ]
+  },
+  {
+   "id": "ha-kimaradt",
+   "title": "Si te lo saltaste, vuelve a empezar sin vergüenza.",
+   "summary": "Una ausencia no borra lo que has construido hasta ahora.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "La vida se interpone: enfermedad, trabajo, hijos, viajes. En el estudio mencionado antes, saltarse una sola ocasión no perjudicó de forma apreciable la formación del hábito [1]. Lo que de verdad hace daño es la sensación de «total, ya da igual»: tras un tropiezo, muchas personas abandonan por completo [12]."
+    },
+    {
+     "type": "p",
+     "text": "Lo que ayuda:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "**Trátate como tratarías a un amigo.** Quienes trataron sus propios errores con comprensión hicieron después más por mejorar, no menos [13]. La vergüenza tiende a llevar a evitar, mientras que la sensación de «me equivoqué y lo voy a arreglar» lleva a actuar [14].",
+      "**No lo recuperes por partida doble.** No intentes recuperar de golpe todas las sesiones perdidas; mejor haz la siguiente más pequeña.",
+      "**Aprovecha los nuevos comienzos.** Una nueva semana, un nuevo mes o una nueva ronda del grupo son un momento natural para volver a empezar; los estudios muestran que en esos momentos nos cuesta menos ponernos en marcha [15]."
+     ]
+    },
+    {
+     "type": "app",
+     "text": "**Cómo te ayuda la app:** los **regresos** son una de las principales medidas del Progreso, porque a largo plazo es lo que más cuenta. **No se realizó** es un estado neutral, no un juicio. No hay ninguna racha diaria que puedas «perder». Si durante un tiempo no puedes, puedes pausar el hábito."
+    }
+   ]
+  },
+  {
+   "id": "miert-konnyebb-egyutt",
+   "title": "Juntos es más fácil.",
+   "summary": "Cuando sabes que alguien cuenta contigo, es más fácil ponerse en marcha.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "El apoyo social es una de las ayudas más poderosas. En un estudio sobre pérdida de peso, las personas que se inscribieron con amigos y se apoyaron mutuamente mantuvieron sus resultados en una proporción mucho mayor que quienes empezaron solas [16]. Sentirse en conexión es además una de las bases de la motivación duradera [6]."
+    },
+    {
+     "type": "p",
+     "text": "Importa *quién* está pendiente de ti. Si en un grupo «todos» están pendientes de todos, es fácil que nadie diga nada, porque cada uno espera a otro [17]. Por eso, con nosotros, cada semana exactamente una persona está pendiente de ti, y tú estás pendiente de exactamente una persona."
+    },
+    {
+     "type": "app",
+     "text": "**Cómo te ayuda la app:** **Hagámoslo juntos** crea una ronda de dos personas a partir de uno de tus hábitos. En un grupo, cada semana cambia quién está pendiente de quién, así que a todos les toca con todos. En la semana compartida veis los planes de los demás y si les dedicasteis tiempo; los detalles los comparte cada cual solo si quiere."
+    }
+   ]
+  },
+  {
+   "id": "felelosseg",
+   "title": "Responsable de alguien, y alguien de ti.",
+   "summary": "Estar pendiente de otros también te da fuerza a ti.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Cuando sabes que alguien cuenta contigo, es más fácil levantarse del sofá. Y estar pendiente de alguien también hace bien: apoyar a otros da sentido y fuerza a muchas personas. Según estudios observacionales, dar apoyo puede ir unido incluso a la propia salud de quien lo da [18]."
+    },
+    {
+     "type": "p",
+     "text": "Estar pendiente de verdad es preguntar, no pedir cuentas. Un tono que deja libertad de elección funciona mejor que un juicio [7]."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Mejor así",
+      "Mejor no"
+     ],
+     "rows": [
+      [
+       "«He visto que esta semana aún no tienes plan. ¿Cuándo te cabría una sesión corta?»",
+       "«¿Otra vez no lo has hecho?»"
+      ],
+      [
+       "«¿Qué tal estás? ¿Te puedo ayudar en algo?»",
+       "«Todos los demás lo han hecho.»"
+      ],
+      [
+       "«¡El paseo del miércoles estuvo genial!»",
+       "«¿Solo 15 minutos?»"
+      ]
+     ]
+    },
+    {
+     "type": "app",
+     "text": "**Cómo te ayuda la app:** si la persona de la que estás pendiente no tiene plan o su resultado se retrasa, recibes un aviso para preguntarle, una sola vez. Puedes enviarle reconocimiento, ánimo o un toque amistoso. No hay clasificación y no se pone a nadie en evidencia."
+    }
+   ]
+  },
+  {
+   "id": "ha-te-vagy-a-kapitany",
+   "title": "Si eres el capitán.",
+   "summary": "No eres un entrenador, sino quien se asegura de que nadie se quede fuera.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "En los grupos de tres o más personas, el capitán cambia cada semana. Tu tarea es sencilla: si alguien está a punto de quedarse sin que nadie esté pendiente de él, avisas a la persona que debe estarlo. No contactas tú con el miembro apoyado en su lugar ni le dices lo que tiene que hacer."
+    },
+    {
+     "type": "p",
+     "text": "El papel rotativo es bueno porque todos viven los dos lados: que alguien cuenta con ellos y que ellos pueden contar con alguien."
+    },
+    {
+     "type": "app",
+     "text": "**Cómo te ayuda la app:** al comienzo de tu semana como capitán te mostramos brevemente qué ves y cuándo recibes una tarea. La tarjeta de la tarea siempre indica el motivo y cómo puedes cerrarla."
+    }
+   ]
+  },
+  {
+   "id": "kornyezet",
+   "title": "En lo que la app no puede ayudarte, pero tú sí.",
+   "summary": "Lo que ves y tienes a mano es más fácil de hacer.",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Los hábitos están muy guiados por el entorno: por lo que vemos, lo que tenemos a mano y lo que requiere poca preparación [5, 19]. La app no puede organizarlo por ti, pero tú puedes hacerlo en unos minutos:"
+    },
+    {
+     "type": "ul",
+     "items": [
+      "**Prepáralo la noche anterior.** Las zapatillas de correr junto a la puerta, la bolsa de deporte hecha, la esterilla de yoga extendida.",
+      "**Tenlo a la vista.** El libro sobre la almohada, la guitarra en un soporte en lugar de en su funda, las tarjetas de vocabulario junto a la cafetera.",
+      "**Reduce los obstáculos para empezar.** Cuantos menos pasos necesites para empezar, más fácil será.",
+      "**Dificulta lo que te distrae.** El móvil en otra habitación, el mando a distancia en un cajón.",
+      "**En el mismo sitio, a la misma hora.** Un lugar y una hora estables refuerzan el efecto recordatorio de la situación [3, 19].",
+      "**Cuéntaselo también a alguien en persona.** Un propósito dicho en voz alta compromete.",
+      "**Cuida lo básico.** Con sueño o con hambre todo cuesta más. En esos momentos, basta con la versión más pequeña."
+     ]
+    }
+   ]
+  }
+ ],
+ "startTitle": "¿Cómo empezar?",
+ "startIntro": [
+  "Hay tres maneras de empezar. Todas son buenas; la mejor es la que encaja con tu situación actual."
+ ],
+ "start": [
+  {
+   "id": "egyedul",
+   "title": "1. Solo, con un hábito",
+   "summary": "Si primero quieres probarlo con calma.",
+   "open": true,
+   "blocks": [
+    {
+     "type": "ul",
+     "items": [
+      "Gratis, también como invitado y sin registrarte.",
+      "Elige **un** hábito y planifica dos o tres sesiones cortas para esta semana.",
+      "Registra qué tal fue. Al cabo de dos o tres semanas, echa un vistazo al **Progreso**.",
+      "Cuando te apetezca, invita a alguien con el botón **Hagámoslo juntos**. Tu hábito puede vincularse al grupo: tus nuevas sesiones cuentan a la vez en tu hábito y en el grupo, y tu Progreso a largo plazo se mantiene en un solo lugar."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kettesben",
+   "title": "2. En pareja",
+   "summary": "Si hay una persona con la que te gustaría hacerlo.",
+   "open": false,
+   "blocks": [
+    {
+     "type": "ul",
+     "items": [
+      "Una ronda de dos personas es siempre gratuita.",
+      "Estáis pendientes el uno del otro: si uno de los dos no tiene plan o su resultado se retrasa, el otro recibe un aviso para preguntarle, una sola vez.",
+      "No tenéis que hacer lo mismo. Uno puede correr y el otro nadar, siempre que estéis en la misma categoría principal.",
+      "Es la forma compartida más sencilla; más adelante también podéis invitar a una tercera persona."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "csoportban",
+   "title": "3. En grupo, de 3 a 8 personas",
+   "summary": "Si ya tienes un equipo.",
+   "open": false,
+   "blocks": [
+    {
+     "type": "ul",
+     "items": [
+      "Un grupo de amigos, compañeros de entrenamiento, colegas, un club de lectura, un grupo de idiomas.",
+      "El grupo funciona en una ronda de 4, 8 o 12 semanas que empieza un lunes; hasta entonces podéis empezar juntos durante la **Semana de preparación**.",
+      "Cada semana está pendiente de ti otra persona, y el papel de capitán también va rotando.",
+      "El primer grupo de quien lo crea es una prueba gratuita de cuatro semanas. Después, un miembro paga por ronda; para todos los demás, participar es gratis."
+     ]
+    }
+   ]
+  }
+ ],
+ "startOutro": [
+  "**Si tienes dudas:** empieza solo durante una o dos semanas y después invita a una persona.",
+  "**Si ya tienes un equipo:** crea el grupo enseguida; la semana de preparación existe precisamente para eso."
+ ],
+ "disclaimer": [
+  "*Esta guía es información general, no consejo médico. Si por tu salud no estás seguro de lo exigente que es una actividad, consulta a tu médico.*"
+ ],
+ "sources": {
+  "id": "forrasok",
+  "title": "Fuentes",
+  "summary": "Los estudios en los que se basa esta guía, en su idioma original.",
+  "items": [
+   {
+    "n": 1,
+    "text": "Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. *European Journal of Social Psychology, 40*(6), 998–1009.",
+    "url": "https://doi.org/10.1002/ejsp.674"
+   },
+   {
+    "n": 2,
+    "text": "Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta-analysis of effects and processes. *Advances in Experimental Social Psychology, 38*, 69–119.",
+    "url": "https://doi.org/10.1016/S0065-2601(06)38002-1"
+   },
+   {
+    "n": 3,
+    "text": "Judah, G., Gardner, B., & Aunger, R. (2013). Forming a flossing habit: An exploratory study of the psychological determinants of habit formation. *British Journal of Health Psychology, 18*(2), 338–353.",
+    "url": "https://doi.org/10.1111/j.2044-8287.2012.02086.x"
+   },
+   {
+    "n": 4,
+    "text": "Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the \"planning fallacy\": Why people underestimate their task completion times. *Journal of Personality and Social Psychology, 67*(3), 366–381.",
+    "url": "https://doi.org/10.1037/0022-3514.67.3.366"
+   },
+   {
+    "n": 5,
+    "text": "Gardner, B., Lally, P., & Wardle, J. (2012). Making health habitual: The psychology of \"habit-formation\" and general practice. *British Journal of General Practice, 62*(605), 664–666.",
+    "url": "https://doi.org/10.3399/bjgp12X659466"
+   },
+   {
+    "n": 6,
+    "text": "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. *American Psychologist, 55*(1), 68–78.",
+    "url": "https://doi.org/10.1037/0003-066X.55.1.68"
+   },
+   {
+    "n": 7,
+    "text": "Ng, J. Y. Y., Ntoumanis, N., Thøgersen-Ntoumani, C., Deci, E. L., Ryan, R. M., Duda, J. L., & Williams, G. C. (2012). Self-determination theory applied to health contexts: A meta-analysis. *Perspectives on Psychological Science, 7*(4), 325–340.",
+    "url": "https://doi.org/10.1177/1745691612447309"
+   },
+   {
+    "n": 8,
+    "text": "Harkin, B., Webb, T. L., Chang, B. P. I., Prestwich, A., Conner, M., Kellar, I., Benn, Y., & Sheeran, P. (2016). Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence. *Psychological Bulletin, 142*(2), 198–229.",
+    "url": "https://doi.org/10.1037/bul0000025"
+   },
+   {
+    "n": 9,
+    "text": "Woolley, K., & Fishbach, A. (2016). For the fun of it: Harnessing immediate rewards to increase persistence in long-term goals. *Journal of Consumer Research, 42*(6), 952–966.",
+    "url": "https://doi.org/10.1093/jcr/ucv098"
+   },
+   {
+    "n": 10,
+    "text": "Milkman, K. L., Minson, J. A., & Volpp, K. G. M. (2014). Holding the Hunger Games hostage at the gym: An evaluation of temptation bundling. *Management Science, 60*(2), 283–299.",
+    "url": "https://doi.org/10.1287/mnsc.2013.1784"
+   },
+   {
+    "n": 11,
+    "text": "Verplanken, B., & Sui, J. (2019). Habit and identity: Behavioral, cognitive, affective, and motivational facets of an integrated self. *Frontiers in Psychology, 10*, 1504.",
+    "url": "https://doi.org/10.3389/fpsyg.2019.01504"
+   },
+   {
+    "n": 12,
+    "text": "Cochran, W., & Tesser, A. (1996). The \"what the hell\" effect: Some effects of goal proximity and goal framing on performance. In L. L. Martin & A. Tesser (Eds.), *Striving and feeling: Interactions among goals, affect, and self-regulation* (pp. 99–120). Lawrence Erlbaum.",
+    "url": null
+   },
+   {
+    "n": 13,
+    "text": "Breines, J. G., & Chen, S. (2012). Self-compassion increases self-improvement motivation. *Personality and Social Psychology Bulletin, 38*(9), 1133–1143.",
+    "url": "https://doi.org/10.1177/0146167212445599"
+   },
+   {
+    "n": 14,
+    "text": "Tangney, J. P., Stuewig, J., & Mashek, D. J. (2007). Moral emotions and moral behavior. *Annual Review of Psychology, 58*, 345–372.",
+    "url": "https://doi.org/10.1146/annurev.psych.56.091103.070145"
+   },
+   {
+    "n": 15,
+    "text": "Dai, H., Milkman, K. L., & Riis, J. (2014). The fresh start effect: Temporal landmarks motivate aspirational behavior. *Management Science, 60*(10), 2563–2582.",
+    "url": "https://doi.org/10.1287/mnsc.2014.1901"
+   },
+   {
+    "n": 16,
+    "text": "Wing, R. R., & Jeffery, R. W. (1999). Benefits of recruiting participants with friends and increasing social support for weight loss and maintenance. *Journal of Consulting and Clinical Psychology, 67*(1), 132–138.",
+    "url": "https://doi.org/10.1037/0022-006X.67.1.132"
+   },
+   {
+    "n": 17,
+    "text": "Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. *Journal of Personality and Social Psychology, 8*(4), 377–383.",
+    "url": "https://doi.org/10.1037/h0025589"
+   },
+   {
+    "n": 18,
+    "text": "Brown, S. L., Nesse, R. M., Vinokur, A. D., & Smith, D. M. (2003). Providing social support may be more beneficial than receiving it: Results from a prospective study of mortality. *Psychological Science, 14*(4), 320–327.",
+    "url": "https://doi.org/10.1111/1467-9280.14461"
+   },
+   {
+    "n": 19,
+    "text": "Wood, W., & Rünger, D. (2016). Psychology of habit. *Annual Review of Psychology, 67*, 289–314.",
+    "url": "https://doi.org/10.1146/annurev-psych-122414-033417"
+   }
+  ]
+ }
+}

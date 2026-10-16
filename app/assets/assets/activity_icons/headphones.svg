@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Zenehallgatás -->
+  <path d="M4.4 14 V12 C4.4 7.4 7.8 4 12 4 C16.2 4 19.6 7.4 19.6 12 V14" stroke="#214F42" stroke-width="2" />
+  <rect x="2.8" y="13" width="4.4" height="7.4" rx="1.8" fill="#FE724B" stroke="#214F42" stroke-width="1.8"/>
+  <rect x="16.8" y="13" width="4.4" height="7.4" rx="1.8" fill="#FE724B" stroke="#214F42" stroke-width="1.8"/>
+</svg>

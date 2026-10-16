@@ -1,0 +1,30 @@
+{
+  "name": "BotherHood",
+  "short_name": "BotherHood",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f3ed",
+  "theme_color": "#214f42",
+  "description": "BotherHood – szokásépítés egyénileg és együtt. Webes tesztváltozat.",
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "scope": "."
+}

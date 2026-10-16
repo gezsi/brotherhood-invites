@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Szobakerékpár -->
+  <circle cx="16.4" cy="15.8" r="3.6" fill="#FE724B" stroke="#214F42" stroke-width="1.8"/>
+  <path d="M7.4 7.4 H11 M9.4 7.4 L11.6 15.6 H16.4 M17.8 6.4 H20.6 M19 6.4 L16.4 15.8 M11.6 15.6 L7.6 21 M16.4 15.8 L18.4 21 M5 21 H20.6" stroke="#214F42" stroke-width="2" />
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" width="240" height="180" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Bemelegítő hét: két alak a horizont előtt, felkelő nappal. Vonal: #214F42, folt: #FE724B, alap: #E1F0E5 -->
+  <path d="M84 104 A36 36 0 0 1 156 104 Z" fill="#FE724B"/>
+  <path d="M120 58 V48 M90 70 L83 63 M150 70 L157 63 M76 92 L66 89 M164 92 L174 89" stroke="#214F42" stroke-width="2.6"/>
+  <ellipse cx="120" cy="160" rx="100" ry="12" fill="#E1F0E5"/>
+  <path d="M18 104 H222" stroke="#214F42" stroke-width="3"/>
+  <circle cx="76" cy="112" r="14" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M52 160 C52 122 100 122 100 160" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <circle cx="164" cy="112" r="14" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M140 160 C140 122 188 122 188 160" fill="#F4F3ED" stroke="#214F42" stroke-width="3"/>
+  <path d="M28 160 H212" stroke="#214F42" stroke-width="3"/>
+</svg>

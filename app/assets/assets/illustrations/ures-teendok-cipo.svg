@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" width="240" height="180" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Üres Teendők: előkészített cipő az ajtó mellett. Vonal: #214F42, folt: #FE724B, alap: #E1F0E5 -->
+  <rect x="168" y="28" width="52" height="132" rx="3" fill="#E1F0E5"/>
+  <ellipse cx="92" cy="150" rx="78" ry="20" fill="#FE724B"/>
+  <path d="M168 160 V28 H220 V160" stroke="#214F42" stroke-width="3"/>
+  <circle cx="178" cy="98" r="3.5" fill="#214F42"/>
+  <path d="M14 160 H230" stroke="#214F42" stroke-width="3"/>
+  <g transform="translate(24 124)" stroke="#214F42" stroke-width="3">
+    <path d="M2 36 V17 Q2 11 8 10 L16 9 Q21 8 23 3 L28 1 Q32 0 33 4 L35 12 Q48 18 60 22 Q66 24 66 30 V36 Z" fill="#F4F3ED"/>
+    <path d="M2 30 H66"/>
+    <path d="M24 13 L30 10 M28 17 L34 14 M32 21 L38 18" stroke-width="2.4"/>
+  </g>
+  <g transform="translate(94 124)" stroke="#214F42" stroke-width="3">
+    <path d="M2 36 V17 Q2 11 8 10 L16 9 Q21 8 23 3 L28 1 Q32 0 33 4 L35 12 Q48 18 60 22 Q66 24 66 30 V36 Z" fill="#F4F3ED"/>
+    <path d="M2 30 H66"/>
+    <path d="M24 13 L30 10 M28 17 L34 14 M32 21 L38 18" stroke-width="2.4"/>
+  </g>
+</svg>

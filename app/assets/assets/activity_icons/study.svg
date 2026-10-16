@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Tanulás -->
+  <path d="M6.4 11.6 V15.6 C6.4 17.6 17.6 17.6 17.6 15.6 V11.6" stroke="#214F42" stroke-width="1.8" />
+  <path d="M12 4.4 L22 9 L12 13.6 L2 9 Z" stroke="#214F42" stroke-width="1.8" />
+  <path d="M19.4 10.2 V15.4" stroke="#FE724B" stroke-width="1.6" />
+  <circle cx="19.4" cy="16.4" r="1.5" fill="#FE724B"/>
+</svg>

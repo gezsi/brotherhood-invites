@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Csoportban – három alak -->
+  <circle cx="13" cy="15" r="4.5" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M5 32 C5 23 21 23 21 32" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <circle cx="35" cy="15" r="4.5" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M27 32 C27 23 43 23 43 32" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <circle cx="24" cy="21" r="9" fill="#FE724B"/>
+  <circle cx="24" cy="21" r="5.5" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M13 41 C13 29.5 35 29.5 35 41" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+</svg>

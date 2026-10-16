@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Súlyzós edzés -->
+  <path d="M7.4 12 H16.6" stroke="#214F42" stroke-width="2" />
+  <rect x="2.2" y="8.6" width="2.6" height="6.8" rx="1" fill="#FE724B" stroke="#214F42" stroke-width="1.6"/>
+  <rect x="4.8" y="6.4" width="3" height="11.2" rx="1.2" fill="#FE724B" stroke="#214F42" stroke-width="1.6"/>
+  <rect x="16.2" y="6.4" width="3" height="11.2" rx="1.2" fill="#FE724B" stroke="#214F42" stroke-width="1.6"/>
+  <rect x="19.2" y="8.6" width="2.6" height="6.8" rx="1" fill="#FE724B" stroke="#214F42" stroke-width="1.6"/>
+</svg>

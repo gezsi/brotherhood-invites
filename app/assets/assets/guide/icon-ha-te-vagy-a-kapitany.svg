@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ha te vagy a kapitány – hajókormány -->
+  <circle cx="24" cy="24" r="11.5" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M27.6 24.0 L40.5 24.0 M26.5 26.5 L35.7 35.7 M24.0 27.6 L24.0 40.5 M21.5 26.5 L12.3 35.7 M20.4 24.0 L7.5 24.0 M21.5 21.5 L12.3 12.3 M24.0 20.4 L24.0 7.5 M26.5 21.5 L35.7 12.3" stroke="#214F42" stroke-width="2.6"/>
+  <circle cx="42.0" cy="24.0" r="2" fill="#214F42"/>
+  <circle cx="36.7" cy="36.7" r="2" fill="#214F42"/>
+  <circle cx="24.0" cy="42.0" r="2" fill="#214F42"/>
+  <circle cx="11.3" cy="36.7" r="2" fill="#214F42"/>
+  <circle cx="6.0" cy="24.0" r="2" fill="#214F42"/>
+  <circle cx="11.3" cy="11.3" r="2" fill="#214F42"/>
+  <circle cx="24.0" cy="6.0" r="2" fill="#214F42"/>
+  <circle cx="36.7" cy="11.3" r="2" fill="#214F42"/>
+  <circle cx="24" cy="24" r="4.2" fill="#FE724B" stroke="#214F42" stroke-width="2.6"/>
+</svg>
