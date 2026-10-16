@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Források – nyitott könyv könyvjelzővel -->
+  <path d="M24 14 Q17 10 7 11 V36 Q17 35 24 39 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M24 14 Q31 10 41 11 V36 Q31 35 24 39 Z" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M24 14 V39" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M11.5 18 H19.5 M11.5 23 H19.5 M11.5 28 H17" stroke="#214F42" stroke-width="2"/>
+  <path d="M30.5 10.6 V23 L33.5 20.2 L36.5 23 V10.8" fill="#FE724B" stroke="#214F42" stroke-width="2.6"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Együtt könnyebb – két ember, egymás felé hullámokkal -->
+  <ellipse cx="24" cy="40" rx="22" ry="4.5" fill="#FE724B"/>
+  <circle cx="11" cy="19" r="5.5" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M3 40 C3 28 19 28 19 40" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <circle cx="37" cy="19" r="5.5" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M29 40 C29 28 45 28 45 40" fill="#F4F3ED" stroke="#214F42" stroke-width="2.6"/>
+  <path d="M20 15 Q22.5 19 20 23 M28 15 Q25.5 19 28 23" stroke="#214F42" stroke-width="2.6"/>
+</svg>
