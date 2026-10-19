@@ -279,19 +279,27 @@
   {
    "id": "ha-te-vagy-a-kapitany",
    "title": "Si tu es capitaine.",
-   "summary": "Tu n'es pas coach, mais celui ou celle qui veille à ce que personne ne soit oublié.",
+   "summary": "Cette semaine, tu aides à rassembler le groupe.",
    "blocks": [
     {
      "type": "p",
-     "text": "Dans les groupes de trois personnes ou plus, le capitaine change chaque semaine. Ta mission est simple : si quelqu'un risque de passer entre les mailles, tu préviens la personne qui veille sur lui ou sur elle. Tu ne contactes pas le membre soutenu à sa place, et tu ne lui dis pas ce qu'il doit faire."
+     "text": "Dans les groupes de trois personnes ou plus, le capitaine change chaque semaine. Cette semaine, tu accueilles la semaine commune : tu aides à faire des petits pas individuels une expérience partagée, pour que chacun sente que sa présence compte."
     },
     {
      "type": "p",
-     "text": "Ce rôle tournant est utile, car chacun vit les deux côtés : savoir que quelqu'un compte sur soi, et pouvoir compter sur quelqu'un."
+     "text": "Un message de début de semaine écrit par toi peut donner un élan au groupe. Tu peux proposer une séance commune, éventuellement une rencontre en personne, et remarquer les petits efforts ou les retours qui passeraient facilement inaperçus. Une semaine parfaite n'est pas la seule chose à saluer : reprendre du temps pour son habitude compte aussi. Inutile de remplir la semaine d'activités ; une phrase personnelle ou un geste bienveillant peut faire beaucoup."
+    },
+    {
+     "type": "p",
+     "text": "Tu veilles aussi à ce que personne ne soit oublié dans l'attention mutuelle. Si une prise de contact manque, rappelle-le à la personne responsable, sans contacter le membre à sa place. Tu ne décides pas de ce que les autres doivent faire, et tu n'as pas à motiver tout le monde à toi seul."
+    },
+    {
+     "type": "p",
+     "text": "La rotation du rôle signifie que faire vivre la communauté est une tâche partagée : à d'autres moments, quelqu'un d'autre donne l'élan ; cette semaine, tu peux y contribuer."
     },
     {
      "type": "app",
-     "text": "**Ce que fait l'app pour toi :** au début de ta semaine de capitaine, nous te montrons brièvement ce que tu vois et quand tu reçois une tâche. La carte de tâche indique toujours la raison et la façon de la clôturer."
+     "text": "**Ce que fait l'app pour toi :** ton rôle de la semaine apparaît dans Tâches avec le nom du groupe. La vue d'ensemble du capitaine montre les projets et les prises de contact ; sur la page d'information du groupe, tu peux écrire ton propre message de début de semaine et proposer une séance commune. Ce sont des possibilités facultatives. Si une tâche précise se présente, sa carte explique séparément la raison et l'action attendue."
     }
    ]
   },

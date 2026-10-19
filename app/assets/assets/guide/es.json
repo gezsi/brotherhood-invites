@@ -279,19 +279,27 @@
   {
    "id": "ha-te-vagy-a-kapitany",
    "title": "Si eres el capitán.",
-   "summary": "No eres un entrenador, sino quien se asegura de que nadie se quede fuera.",
+   "summary": "Esta semana ayudas a mantener unido al grupo.",
    "blocks": [
     {
      "type": "p",
-     "text": "En los grupos de tres o más personas, el capitán cambia cada semana. Tu tarea es sencilla: si alguien está a punto de quedarse sin que nadie esté pendiente de él, avisas a la persona que debe estarlo. No contactas tú con el miembro apoyado en su lugar ni le dices lo que tiene que hacer."
+     "text": "En los grupos de tres o más personas, el capitán cambia cada semana. Esta semana eres anfitrión de la semana compartida: ayudas a convertir los pasos individuales en una experiencia común, para que todos sientan que su presencia cuenta."
     },
     {
      "type": "p",
-     "text": "El papel rotativo es bueno porque todos viven los dos lados: que alguien cuenta con ellos y que ellos pueden contar con alguien."
+     "text": "Un mensaje de apertura escrito por ti puede dar impulso a la semana. Puedes proponer una sesión compartida, incluso un encuentro en persona, y reconocer pequeños esfuerzos o regresos que podrían pasar desapercibidos. No solo una semana perfecta merece reconocimiento: también lo merece volver a dedicar tiempo al hábito. No hace falta llenar la semana de actividades; una frase personal o un gesto amable puede significar mucho."
+    },
+    {
+     "type": "p",
+     "text": "También procuras que nadie quede fuera del apoyo mutuo. Si falta un contacto, avisas a la persona responsable, sin contactar tú con el miembro en su lugar. No decides lo que deben hacer los demás, ni tienes que motivarlos a todos tú solo."
+    },
+    {
+     "type": "p",
+     "text": "La rotación del papel significa que mantener unida a la comunidad es una tarea compartida: otras veces alguien más da impulso; esta semana puedes aportar tú."
     },
     {
      "type": "app",
-     "text": "**Cómo te ayuda la app:** al comienzo de tu semana como capitán te mostramos brevemente qué ves y cuándo recibes una tarea. La tarjeta de la tarea siempre indica el motivo y cómo puedes cerrarla."
+     "text": "**Cómo te ayuda la app:** tu papel semanal aparece en Tareas con el nombre del grupo. El resumen del capitán muestra los planes y los contactos de apoyo; en la página de información del grupo puedes escribir tu propio mensaje de apertura y proponer una sesión compartida. Son opciones voluntarias. Si surge una tarea concreta, su tarjeta explica por separado el motivo y el paso necesario."
     }
    ]
   },

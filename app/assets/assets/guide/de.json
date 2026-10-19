@@ -279,19 +279,27 @@
   {
    "id": "ha-te-vagy-a-kapitany",
    "title": "Wenn du Kapitän bist.",
-   "summary": "Du bist kein Coach, sondern die Person, die darauf achtet, dass niemand übersehen wird.",
+   "summary": "Diese Woche hilfst du, die Gruppe zusammenzuhalten.",
    "blocks": [
     {
      "type": "p",
-     "text": "In Gruppen ab drei Personen wechselt der Kapitän jede Woche. Deine Aufgabe ist einfach: Wenn jemand beim Achtgeben durchzurutschen droht, sagst du der Person Bescheid, die auf ihn oder sie achtet. Du meldest dich nicht anstelle dieser Person beim unterstützten Mitglied und sagst ihm auch nicht, was es tun soll."
+     "text": "In Gruppen ab drei Personen wechselt der Kapitän jede Woche. Diese Woche bist du Gastgeber der gemeinsamen Woche: Du hilfst, aus einzelnen Schritten ein gemeinsames Erlebnis zu machen, damit alle spüren, dass ihr Dabeisein zählt."
     },
     {
      "type": "p",
-     "text": "Die wechselnde Rolle ist gut, weil alle beide Seiten erleben: dass jemand auf sie zählt und dass sie auf jemanden zählen können."
+     "text": "Eine eigene Auftaktnachricht kann der Woche Schwung geben. Du kannst eine gemeinsame Einheit vorschlagen, auch ein persönliches Treffen, und kleine Anstrengungen oder einen Wiedereinstieg wahrnehmen, die sonst leicht untergehen. Nicht nur eine perfekte Woche verdient Anerkennung, sondern auch, dass jemand seiner Gewohnheit wieder Zeit gibt. Du musst die Woche nicht mit Programmpunkten füllen; ein persönlicher Satz oder eine nette Geste kann viel bedeuten."
+    },
+    {
+     "type": "p",
+     "text": "Außerdem achtest du darauf, dass niemand beim gegenseitigen Achtgeben übersehen wird. Bleibt eine Kontaktaufnahme aus, erinnerst du die zuständige Person, statt an ihrer Stelle Kontakt aufzunehmen. Du bestimmst nicht, was andere tun sollen, und musst nicht alle allein motivieren."
+    },
+    {
+     "type": "p",
+     "text": "Die wechselnde Rolle bedeutet auch: Den Zusammenhalt zu pflegen ist eine gemeinsame Aufgabe. Sonst gibt jemand anderes Schwung, diese Woche kannst du etwas beitragen."
     },
     {
      "type": "app",
-     "text": "**So hilft die App:** Zu Beginn deiner Kapitänswoche zeigen wir dir kurz, was du siehst und wann du eine Aufgabe bekommst. Die Aufgabenkarte nennt immer den Grund und wie du sie abschließen kannst."
+     "text": "**So hilft die App:** Deine Wochenrolle erscheint unter Aufgaben mit dem Gruppennamen. In der Kapitänsübersicht siehst du Pläne und Kontaktaufnahmen; auf der Gruppeninfoseite kannst du eine eigene Auftaktnachricht schreiben und eine gemeinsame Einheit vorschlagen. Das sind freiwillige Möglichkeiten. Entsteht eine konkrete Aufgabe, erklärt ihre Karte gesondert den Grund und den nächsten Schritt."
     }
    ]
   },

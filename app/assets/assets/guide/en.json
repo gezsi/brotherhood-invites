@@ -279,19 +279,27 @@
   {
    "id": "ha-te-vagy-a-kapitany",
    "title": "If you're the captain.",
-   "summary": "You're not a coach, but the one who makes sure no one is left out.",
+   "summary": "This week, you help bring the group together.",
    "blocks": [
     {
      "type": "p",
-     "text": "In groups of three or more, the captain changes every week. Your job is simple: if someone is about to be left out of the looking-out, you tell the person who looks out for them. You don't contact the supported member in their place, and you don't tell them what to do."
+     "text": "In groups of three or more, the captain changes each week. This week you are the group's host: you help turn individual steps into a shared experience, so everyone feels that their presence matters."
     },
     {
      "type": "p",
-     "text": "The rotating role is good because everyone experiences both sides: that someone counts on them, and that they can count on someone too."
+     "text": "Your own opening message can give the week a lift. You can suggest a shared session, perhaps meeting in person, and notice small efforts or returns that others might overlook. A perfect week isn't the only thing worth recognising: so is someone making time for their habit again. You don't need to fill the week with events; a personal sentence or a kind gesture can mean a lot."
+    },
+    {
+     "type": "p",
+     "text": "You also help make sure no one is left out of the looking-out. If a buddy misses a check-in, remind the person responsible rather than contacting the member on their behalf. You don't decide what others should do, and keeping everyone motivated isn't yours to do alone."
+    },
+    {
+     "type": "p",
+     "text": "Rotating the role means that keeping the community together is shared work: at other times someone else gives it a lift; this week you can contribute."
     },
     {
      "type": "app",
-     "text": "**How the app helps:** at the start of your captain week we briefly show you what you see and when you get a task. The task card always tells you the reason and how you can close it."
+     "text": "**How the app helps:** your weekly role appears on Tasks with the group's name. The Captain overview shows plans and buddy check-ins; on the group information page you can write your own opening message and suggest a shared session. These are optional opportunities. If you get a specific task, its card separately explains the reason and the action needed."
     }
    ]
   },

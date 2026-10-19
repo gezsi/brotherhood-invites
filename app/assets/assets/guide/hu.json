@@ -279,19 +279,27 @@
   {
    "id": "ha-te-vagy-a-kapitany",
    "title": "Ha te vagy a kapitány.",
-   "summary": "Nem edző vagy, hanem az, aki ügyel, hogy senki ne maradjon ki.",
+   "summary": "Ezen a héten te segítesz összefogni a csoportot.",
    "blocks": [
     {
      "type": "p",
-     "text": "Háromfős vagy nagyobb csoportban minden héten más a kapitány. A feladatod egyszerű: ha valaki kimaradna a figyelésből, szólsz annak, aki rá figyel. A támogatott tagot nem te keresed meg helyette, és nem te mondod meg, mit csináljon."
+     "text": "Háromfős vagy nagyobb csoportban hetente változik a kapitány. Ezen a héten te vagy a közös hét házigazdája: segítesz, hogy a külön-külön tett lépésekből közös élmény legyen, és mindenki érezze, hogy számít a jelenléte."
     },
     {
      "type": "p",
-     "text": "A forgó szerep azért jó, mert mindenki kipróbálja mindkét oldalt: hogy valaki számít rá, és hogy ő is számíthat valakire."
+     "text": "Egy saját nyitóüzenettel lendületet adhatsz a hétnek. Javasolhatsz egy közös alkalmat, akár személyes találkozást is, és észreveheted azokat az apró erőfeszítéseket vagy visszatéréseket, amelyek mellett más könnyen elsiklana. Nem csak a hibátlan hét érdemel elismerést: az is, hogy valaki újra időt adott a szokásának. Nem kell programokkal megtöltened a hetet; egy személyes mondat vagy kedves gesztus is sokat jelenthet."
+    },
+    {
+     "type": "p",
+     "text": "Emellett ügyelsz arra, hogy senki ne maradjon ki a figyelésből. Ha elmarad egy társi megkeresés, annak szólsz, aki a tagra figyel; nem keresed meg helyette a támogatott tagot. Nem te mondod meg, ki mit csináljon, és nem neked kell mindenkit egyedül motiválnod."
+    },
+    {
+     "type": "p",
+     "text": "A szerep forgása azt is jelenti, hogy a közösség összetartása közös ügy: máskor más ad lendületet, most te tehetsz hozzá valamit."
     },
     {
      "type": "app",
-     "text": "**Ebben segít az alkalmazás:** a kapitányi heted elején röviden megmutatjuk, mit látsz és mikor kapsz teendőt. A teendőkártya mindig megmondja, mi az ok, és hogyan zárhatod le."
+     "text": "**Ebben segít az alkalmazás:** a heti megbízatásodat a Teendőkön, a csoport nevével jelezzük. A Kapitányi áttekintésben látod a terveket és a társi megkereséseket; a csoport információs oldalán saját nyitóüzenetet írhatsz és közös alkalmat javasolhatsz. Ezek önkéntes lehetőségek. Ha konkrét teendőd keletkezik, a kártya külön megmutatja az okát és az elvárt lépést."
     }
    ]
   },
